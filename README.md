@@ -3,6 +3,7 @@ Hi, I'm Jusuf
 Full-stack developer with a strong foundation in JavaScript, C#, and networking — currently focused on frontend development and looking for my first professional role in the field.
 
 🎓 Background
+
 Computer Science & Information Technology graduate — Faculty of Traffic and Communications, University of Sarajevo (GPA 9.07/10)
 Cisco Packet Tracer networking, automation, and API development
 Based in Sarajevo, Bosnia and Herzegovina
