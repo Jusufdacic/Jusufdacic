@@ -28,7 +28,7 @@ Featured Projects
 (A full-stack sports facility booking application. ASP.NET Core REST API with JWT authentication and role-based authorization, backed by SQL Server via Entity Framework Core, paired with a Flutter mobile client that includes QR code generation and camera-based scanning for reservation check-in.)
 
 - JavaScript Fundamentals
-(A collection of algorithmic and DOM manipulation exercises in vanilla JavaScript — including a solved Trapping Rain Water (LeetCode Hard), Mastermind game logic, and dynamic DOM-driven interfaces built without any framework.)
+(A collection of algorithmic, REST API and DOM manipulation exercises in vanilla JavaScript — including a solved Trapping Rain Water (LeetCode Hard), Mastermind game logic, REST API and dynamic DOM-driven interfaces built without any framework.)
 
 📫 Get in Touch
 Email: pvzhd477@gmail.com
