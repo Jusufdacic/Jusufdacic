@@ -32,9 +32,5 @@ JavaScript Fundamentals
 
 A collection of algorithmic and DOM manipulation exercises in vanilla JavaScript — including a solved Trapping Rain Water (LeetCode Hard), Mastermind game logic, and dynamic DOM-driven interfaces built without any framework.
 
-🎯 What I'm Looking For
-
-I'm looking for a junior/entry-level frontend or full-stack developer role where I can keep building on the fundamentals I already have — clean JavaScript, solid HTML/CSS, and an understanding of how the pieces fit together — while learning modern frameworks and best practices on the job. I'm also interested in roles that combine software development with networking and infrastructure.
-
 📫 Get in Touch
 Email: pvzhd477@gmail.com
