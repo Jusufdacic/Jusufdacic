@@ -35,7 +35,8 @@ Algorithmic problem-solving, DOM manipulation and REST API integration exercises
 
 ## 📄 Research
 
-**Robustness and Limitations of ML/DL ADS-B Spoofing Detectors** *(in progress)* — a review of machine learning approaches to detecting spoofed aircraft surveillance signals, and the open problems that remain. Being prepared for the ATCT international conference.
+**Robustness and Limitations of ML/DL ADS-B Spoofing Detectors** — a review of machine learning approaches to detecting spoofed aircraft surveillance signals, and the open problems that remain. 
+Participation in the international ATCT conference on October 29-30.
 
 **[Digitization of Speech Signals](https://github.com/Jusufdacic/Jusufdacic.github.io/tree/main/digitalizacija-govora)** — analog-to-digital conversion and spectrogram analysis of speech across three vocal modalities, implemented in MATLAB. Graded 10/10.
 
